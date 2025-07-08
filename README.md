@@ -1,2 +1,2 @@
-# AI
-various code to try out AI/ML
+
+this is my playground to try out various AI/ML tools.
