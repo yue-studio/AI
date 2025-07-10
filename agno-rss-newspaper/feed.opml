@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Feed</title>
+    </head>
+    <body>
+        <outline text="Tech" title="Tech">
+            <outline type="rss" text="Engadget" title="Engadget" xmlUrl="http://www.engadget.com/rss-full.xml" htmlUrl="http://www.engadget.com"/>
+            <outline type="rss" text="KDnuggets" title="KDnuggets" xmlUrl="http://feeds.feedburner.com/kdnuggets-data-mining-analytics" htmlUrl="https://www.kdnuggets.com"/>
+            <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="http://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
+        </outline>
+        <outline text="Company Blog" title="Company Blog">
+            <outline type="rss" text="Engineering at Meta" title="Engineering at Meta" xmlUrl="https://code.facebook.com/posts/rss" htmlUrl="https://engineering.fb.com/"/>
+            <outline type="rss" text="Confluent: Data in motion" title="Confluent: Data in motion" xmlUrl="https://www.confluent.io/feed/" htmlUrl="https://www.confluent.io"/>
+        </outline>
+    </body>
+</opml>
